@@ -1,5 +1,3 @@
----
-
 ## MPB 音楽プレイヤー
 
 **バージョン**: 1.0.0  
@@ -96,5 +94,3 @@ MPB音楽プレイヤーは[MITライセンス](https://opensource.org/licenses/
 
 - **Discord**: holo_clover
 - **メール**: fkokiff@gmail.com
-
----
